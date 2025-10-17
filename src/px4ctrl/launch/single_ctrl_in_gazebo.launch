@@ -1,0 +1,8 @@
+<launch>
+    <!-- Include first drone with drone_id 0 -->
+    <include file="$(find px4ctrl)/launch/run_ctrl_gazebo.launch">
+        <arg name="drone_id" value="0"/>
+        <arg name="namespace" value="iris_0"/>
+    </include>
+
+</launch>
