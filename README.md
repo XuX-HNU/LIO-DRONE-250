@@ -5,9 +5,8 @@
 - **Control:** The px4ctrl interface forwards the planned trajectories from the onboard computer to the PX4 flight stack for stable and precise execution.
 
 ## 1.Results
-
 https://github.com/user-attachments/assets/9b0e405b-c860-414f-a51e-c59a6a6c4f74
-
+https://github.com/user-attachments/assets/76426b22-1975-4e26-80c9-29b1ade04c31
 ## 2.Preparation
 
 In order to run the project, first you need to make some preliminary preparations:
@@ -179,6 +178,7 @@ $ sh shfiles/takeoff.sh
 [3.Mid360_px4](https://github.com/qiurongcan/Mid360_px4)
 
 [4.High_fast_lio2](https://github.com/HNU-CAT/high_fast_lio2)
+
 
 
 
