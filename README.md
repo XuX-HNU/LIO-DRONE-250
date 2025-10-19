@@ -6,9 +6,7 @@
 
 ## 1.Results
 
-<video src="F:\博士\其他项目\昌恩智能\10.11\定位建图.mp4"></video>
-
-<video src="C:\Users\xp\Videos\10月18日.mp4"></video>
+https://github.com/user-attachments/assets/9b0e405b-c860-414f-a51e-c59a6a6c4f74
 
 ## 2.Preparation
 
@@ -181,6 +179,7 @@ $ sh shfiles/takeoff.sh
 [3.Mid360_px4](https://github.com/qiurongcan/Mid360_px4)
 
 [4.High_fast_lio2](https://github.com/HNU-CAT/high_fast_lio2)
+
 
 
 
