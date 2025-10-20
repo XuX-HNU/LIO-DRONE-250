@@ -99,7 +99,7 @@ $ python3 pointcloud2livox.py
 In Terminal 3
 
 ```c++
-$ roslaunch fast_lio mapping_mid360_sim.launchC
+$ roslaunch fast_lio mapping_mid360_sim.launch
 ```
 
 In Terminal 4
@@ -181,6 +181,7 @@ $ sh shfiles/takeoff.sh
 [3.Mid360_px4](https://github.com/qiurongcan/Mid360_px4)
 
 [4.High_fast_lio2](https://github.com/HNU-CAT/high_fast_lio2)
+
 
 
 
